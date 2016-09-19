@@ -5,5 +5,5 @@ This sets the registry settings of Internet Explorer to allow "Automatic logon w
 
 ## Usage 
 
-To Enable this option in Internet Explorer use: Enable-TrustedAutoLogin 
-To Disable this option in Internet Explorer use: Disable-TrustedAutoLogin 
+To Enable this option in Internet Explorer use: Enable-TrustedAutoLogin.
+To Disable this option in Internet Explorer use: Disable-TrustedAutoLogin.
